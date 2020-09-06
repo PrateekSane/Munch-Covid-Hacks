@@ -1,0 +1,44 @@
+.overallrecipe {
+  margin: auto;
+}
+
+img.recipeImage {
+  border-radius: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 280px;
+  width: 500px;
+  transition-duration: 0.5s;
+  object-fit: cover;
+}
+
+img.recipeImage:hover {
+  border-radius: 0px;
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: 2%;
+}
+
+.recipeTitle {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.recipeQuickInfo {
+  margin-top:35px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.recipeDescription {
+  font-size: 18px;
+}
+
+.recipePageBreak {
+  border: 1px dashed #99a39d;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}

@@ -1,6 +1,7 @@
 # Munch-Covid-Hacks
 Project for Covid Hacks hackathon on 9-5-2020
 
+https://www.youtube.com/watch?v=RU7uFpxVaRY
 
 During this pandemic, we encountered a problem common among young adults: we didn’t know how to cook and were stuck with unhealthy food options at home. Many students like us do not have access to healthy food during this pandemic and many working parents do not have the time to prepare healthy recipes. Learning to cook is daunting because new learners are faced with a jumble of unclear cooking articles and long videos that are difficult to navigate and contain extra information. Someone can spend 5 minutes reading a recipe only to notice they didn’t have a key ingredient. This makes finding recipes very inefficient and time-consuming.
 
